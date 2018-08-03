@@ -1,2 +1,194 @@
+/*donate page*/
 
-/*This is your CSS file */
+body {
+  background-image: url("https://www.simpleshapes.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/8/0/8008_img1_closeup_2.jpg");
+  background-size: cover;
+  font-family: "Shadows Into Light Two"
+}
+
+#head1 {
+  font-family: "Shadows Into Light Two";
+  text-align: center;
+  font-size: 500%;
+  color: black;
+}
+
+#head2 {
+  font-family: "Shadows Into Light Two";
+  font-size: 500%;
+  border-style: solid;
+
+}
+
+h3 {
+  text-align: center;
+  font-size: 130%;
+}
+
+#links {
+  text-align: center;
+}
+
+#ts {
+  text-align: center;
+}
+
+
+
+/*end of page*/
+
+/*HOME PAGE*/
+
+#head1 {
+  font-family: "Shadows Into Light Two";
+  text-align: center;
+  font-size: 500%;
+  color: black;
+}
+
+#mission {
+  font-family: "Courier";
+  font-size: 200%;
+  text-align: center;
+}
+
+h4 {
+  font-size: 150%;
+  font-family: "Courier New";
+  margin-left: 30px
+}
+
+#kwk {}
+
+/*END PAGE*/
+
+/*information page*/
+
+/*body{background-image: url("https://www.simpleshapes.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/8/0/8008_img1_closeup_2.jpg");*/
+
+/*}*/
+
+#head1 {
+  font-family: "Shadows Into Light Two";
+  text-align: center;
+  font-size: 500%;
+  color: Black;
+}
+
+#treatment4 {
+  font-size: 150%;
+  text-align: left;
+}
+
+#infoHeader {
+  font-family: "Shadows Into Light Two";
+  font-size: 150%;
+  text-align: center;
+}
+
+#drugs7 {
+  width: 500px;
+  height: 300px;
+  padding-right: 10%;
+  float: right;
+}
+
+#info {
+  font-family: "Shadows Into Light Two";
+  font-size: 150%;
+  text-align: left;
+}
+
+#infotitle {
+  font-size: 200%;
+}
+
+/*.topnav {list-style-type: none;*/
+
+/*    margin: 0;*/
+
+/*    padding: 0;*/
+
+/*    overflow: hidden;*/
+
+/*    background-color:grey;}*/
+
+/*.topnav {float:left;}*/
+
+/*.topnav a {*/
+
+/*    display: block;*/
+
+/*    color: white;*/
+
+/*    text-align: center;*/
+
+/*    padding: 14px 16px;*/
+
+/*    text-decoration: none;*/
+
+/*    font-size:150%;*/
+
+/*}*/
+
+/*.topnav a:hover {*/
+
+/*    background-color: #111;*/
+
+/*}*/
+
+.topnav {
+  overflow: hidden;
+  background-color: #EF4387;
+}
+
+/* Style the topnav links */
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #FFEAEF;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+
+.topnav a:hover {
+  background-color: hsl(0, 100%, 90%);
+  color: #ffffff;
+}
+
+p {
+  text-align: center;
+}
+
+/*END OF PAGE*/
+
+/*BIO PAGE!important!important!important!important*/
+
+#biocenter {
+  font-size: 200%;
+  text-align: center;
+}
+
+#ronanfds {
+  font-size: 200%;
+}
+
+#biofont {
+  font-family: "Courier";
+  font-size: 200%;
+  margin-left: 30px
+}
+
+#asdf {
+  font-size: 150%;
+}
+
+#pics {
+  border-style: solid;
+  /*border-color:black;*/
+}
+
